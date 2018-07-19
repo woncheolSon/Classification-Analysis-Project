@@ -6,4 +6,4 @@
 <img src="readme_img/description.png" width="700" align="center">
 </br>
 
-\*source : [Walmart-Recruiting-Trip-Type-Classification](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
+\*source : [Walmart Recruiting: Trip Type Classification](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
