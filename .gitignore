@@ -1,3 +1,4 @@
 # model result csv files 
 *.csv
 *.zip
+*.pkl
