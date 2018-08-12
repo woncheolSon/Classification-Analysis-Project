@@ -9,6 +9,7 @@
 
 ## Result
 [ Best Score ]
+</br>
 <img src="result_image/submission1.png" width="760" align="center">
 </br>
 - Private Score (70% of the test data) : 0.65817
@@ -17,6 +18,7 @@
 </br>
 
 [ Other Trials ]
+</br>
 <img src="result_image/submission2.png" width="760" align="center">
 <img src="result_image/dmatrix_xgb.png" width="743" align="center">
 <img src="result_image/xgb.png" width="744" align="center">
