@@ -2,3 +2,6 @@
 *.csv
 *.zip
 *.pkl
+*.model
+*.txt
+*.hdf5
