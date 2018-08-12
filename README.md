@@ -13,7 +13,7 @@
 </br>
 - Private Score (70% of the test data) : 0.65817
 - Public Score (30% of the test data) : 0.66563
-- Rank : 181 / 1047 (17.28%)
+- Rank : 181 / 1047 (17.28%) 
 </br>
 
 [ Other Trials ]
