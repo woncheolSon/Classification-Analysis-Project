@@ -3,8 +3,8 @@
 </br>
 
 ## Desciption
-<img src="readme_img/title.png" width="700" align="center">
-<img src="readme_img/description.png" width="700" align="center">
+<img src="readme_img/title.png" width="750" align="center">
+<img src="readme_img/description.png" width="750" align="center">
 </br>
 
 ## Result
@@ -14,12 +14,12 @@
 - Rank : 181 / 1047
 </br>
 
-<img src="result_image/submission1.png" width="700" align="center">
-<img src="result_image/submission2.png" width="710" align="center">
-<img src="result_image/dmatrix_xgb.png" width="695" align="center">
-<img src="result_image/svc.png" width="688" align="center">
-<img src="result_image/rft.png" width="692" align="center">
-<img src="result_image/nn.png" width="694" align="center">
+<img src="result_image/submission1.png" width="760" align="center">
+<img src="result_image/submission2.png" width="760" align="center">
+<img src="result_image/dmatrix_xgb.png" width="743" align="center">
+<img src="result_image/svc.png" width="735" align="center">
+<img src="result_image/rft.png" width="740" align="center">
+<img src="result_image/nn.png" width="742" align="center">
 </br>
 
 ---
