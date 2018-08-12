@@ -9,9 +9,9 @@
 
 ## Result
 [ Best Score ]
-- Private Score(70%) : 0.65817
-- Public Score(30%) : 0.66563
-- Rank : 181 / 1047
+- Private Score (70% of the test data) : 0.65817
+- Public Score (30% of the test data) : 0.66563
+- Rank : 181 / 1047 (17.28%)
 </br>
 
 <img src="result_image/submission1.png" width="760" align="center">
